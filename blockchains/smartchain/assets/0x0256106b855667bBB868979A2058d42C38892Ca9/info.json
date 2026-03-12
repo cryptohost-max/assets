@@ -8,6 +8,9 @@
   "decimals": 18,
   "status": "active",
   "id": "0x0256106b855667bBB868979A2058d42C38892Ca9",
+  "tags": [
+    "utility"
+  ],
   "links": [
     {
       "name": "github",
