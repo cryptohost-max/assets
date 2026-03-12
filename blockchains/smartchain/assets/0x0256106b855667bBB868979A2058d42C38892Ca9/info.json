@@ -1,26 +1,26 @@
 {
-  "name": "ACX",
-  "website": "https://acxcoin.online/",
-  "description": "ACX token on BSC network",
-  "explorer": "https://bscscan.com/token/0x0256106b855667bBB868979A2058d42C38892Ca9",
-  "type": "BEP20",
-  "symbol": "ACX",
-  "decimals": 18,
-  "status": "active",
-  "id": "0x0256106b855667bBB868979A2058d42C38892Ca9",
+ "name": "ACX",
+ "website": "https://acxcoin.online/",
+ "description": "ACX token on BSC network",
+ "explorer": "https://bscscan.com/token/0x0256106b855667bBB868979A2058d42C38892Ca9",
+ "type": "BEP20",
+ "symbol": "ACX",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0256106b855667bBB868979A2058d42C38892Ca9",
 
-  "tags": [
-    "utility"
-  ],
+ "tags": [
+   "defi"
+ ],
 
-  "links": [
-    {
-      "name": "github",
-      "url": "https://github.com/cryptohost-max/acx"
-    },
-    {
-      "name": "telegram",
-      "url": "https://t.me/ACX_Official_Bot"
-    }
-  ]
+ "links": [
+   {
+     "name": "github",
+     "url": "https://github.com/cryptohost-max/acx"
+   },
+   {
+     "name": "telegram",
+     "url": "https://t.me/ACX_Official_Bot"
+   }
+ ]
 }
