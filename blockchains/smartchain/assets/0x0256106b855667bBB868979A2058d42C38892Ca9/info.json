@@ -1,7 +1,7 @@
 {
   "name": "ACX",
   "website": "https://acxcoin.online/",
-  "description": "ACX is a BEP20 token built on the Binance Smart Chain ecosystem.",
+  "description": "ACX is a BEP20 token on BSC.",
   "explorer": "https://bscscan.com/token/0x0256106b855667bBB868979A2058d42C38892Ca9",
   "type": "BEP20",
   "symbol": "ACX",
@@ -9,10 +9,6 @@
   "status": "active",
   "id": "0x0256106b855667bBB868979A2058d42C38892Ca9",
   "links": [
-    {
-      "name": "website",
-      "url": "https://acxcoin.online/"
-    },
     {
       "name": "github",
       "url": "https://github.com/cryptohost-max/acx"
